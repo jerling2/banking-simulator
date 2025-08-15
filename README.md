@@ -40,7 +40,3 @@ A multithreaded banking simulation written in C. This project demonstrates the f
 1. Multiple threads (clients) are started.
 2. Each thread deposits, withdraws, or transfers money between accounts.
 3. All operations are logged and account balances are checked for consistency at the end.
-
-## License
-
-This project is licensed under the MIT License.
